@@ -1,0 +1,4 @@
+== Authentification
+ - Aucune configuration n'est nécessaire, une base locale est utilisée.
+ - La création d'un compte donne accès à l'intégralité des fonctionalités du site
+ - Le compte de démonstration avec réservations suivant peut être utilisé: pierre.anken@gmail.com / 12345

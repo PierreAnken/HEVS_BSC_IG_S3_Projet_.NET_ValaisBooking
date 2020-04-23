@@ -1,0 +1,61 @@
+C:\Users\pierr\Google Drive\ProjetSi\ValaisBooking\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\pierr\Google Drive\ProjetSi\ValaisBooking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\pierr\Google Drive\ProjetSi\ValaisBooking\BLL\bin\Debug\BLL.dll
+C:\Users\pierr\Google Drive\ProjetSi\ValaisBooking\BLL\bin\Debug\BLL.pdb
+C:\Users\pierr\Google Drive\ProjetSi\ValaisBooking\BLL\bin\Debug\DAL.dll
+C:\Users\pierr\Google Drive\ProjetSi\ValaisBooking\BLL\bin\Debug\DTO.dll
+C:\Users\pierr\Google Drive\ProjetSi\ValaisBooking\BLL\bin\Debug\DAL.pdb
+C:\Users\pierr\Google Drive\ProjetSi\ValaisBooking\BLL\bin\Debug\DTO.pdb
+C:\Users\pierr\Google Drive\ProjetSi\ValaisBooking\BLL\obj\Debug\BLL.dll
+C:\Users\pierr\Google Drive\ProjetSi\ValaisBooking\BLL\obj\Debug\BLL.pdb
+D:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\bin\Debug\BLL.dll
+D:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\bin\Debug\BLL.pdb
+D:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\bin\Debug\DAL.dll
+D:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\bin\Debug\DTO.dll
+D:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\bin\Debug\DAL.pdb
+D:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\bin\Debug\DTO.pdb
+D:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\obj\Debug\BLL.dll
+D:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\obj\Debug\BLL.pdb
+P:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\bin\Debug\BLL.dll
+P:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\bin\Debug\BLL.pdb
+P:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\bin\Debug\DAL.dll
+P:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\bin\Debug\DTO.dll
+P:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\bin\Debug\DAL.pdb
+P:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\bin\Debug\DTO.pdb
+P:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+P:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+P:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\obj\Debug\BLL.dll
+P:\Pierre\Gdrive\ProjetSi\ValaisBooking\BLL\obj\Debug\BLL.pdb
+C:\Users\pierr\Desktop\ProjetSi\ValaisBooking\BLL\bin\Debug\BLL.dll
+C:\Users\pierr\Desktop\ProjetSi\ValaisBooking\BLL\bin\Debug\BLL.pdb
+C:\Users\pierr\Desktop\ProjetSi\ValaisBooking\BLL\bin\Debug\DAL.dll
+C:\Users\pierr\Desktop\ProjetSi\ValaisBooking\BLL\bin\Debug\DTO.dll
+C:\Users\pierr\Desktop\ProjetSi\ValaisBooking\BLL\bin\Debug\DAL.pdb
+C:\Users\pierr\Desktop\ProjetSi\ValaisBooking\BLL\bin\Debug\DTO.pdb
+C:\Users\pierr\Desktop\ProjetSi\ValaisBooking\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\pierr\Desktop\ProjetSi\ValaisBooking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\pierr\Desktop\ProjetSi\ValaisBooking\BLL\obj\Debug\BLL.dll
+C:\Users\pierr\Desktop\ProjetSi\ValaisBooking\BLL\obj\Debug\BLL.pdb
+C:\Users\pierr\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\bin\Debug\BLL.dll
+C:\Users\pierr\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\bin\Debug\BLL.pdb
+C:\Users\pierr\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\bin\Debug\DAL.dll
+C:\Users\pierr\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\bin\Debug\DTO.dll
+C:\Users\pierr\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\bin\Debug\DAL.pdb
+C:\Users\pierr\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\bin\Debug\DTO.pdb
+C:\Users\pierr\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\pierr\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\pierr\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\obj\Debug\BLL.dll
+C:\Users\pierr\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\obj\Debug\BLL.pdb
+D:\OneDrive\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\bin\Debug\BLL.dll
+D:\OneDrive\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\bin\Debug\BLL.pdb
+D:\OneDrive\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\bin\Debug\DAL.dll
+D:\OneDrive\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\bin\Debug\DTO.dll
+D:\OneDrive\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\bin\Debug\DAL.pdb
+D:\OneDrive\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\bin\Debug\DTO.pdb
+D:\OneDrive\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\OneDrive\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\obj\Debug\BLL.dll
+D:\OneDrive\Desktop\ProjetSi Pierre Anken\ValaisBooking\BLL\obj\Debug\BLL.pdb
